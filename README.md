@@ -7,7 +7,7 @@ Link - https://www.autismresearchcentre.com/tests/quantitative-checklist-for-aut
 
 # Key features of this ML model:
 
-1. Sophisticated Parameter Weighting:
+1. Parameter Weighting:
 
 - Social Communication: 48%
 - Speech and Language: 29%
