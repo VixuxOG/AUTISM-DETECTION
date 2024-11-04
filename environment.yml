@@ -1,0 +1,12 @@
+name: autism-detection
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - scikit-learn
+  - flask
+  - pip
+pip:
+  - -r requirements.txt
