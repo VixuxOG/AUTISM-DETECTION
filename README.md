@@ -192,3 +192,11 @@ export default function AutismScreeningTool() {
 ```
 
 Now, when the user completes the screening, the `calculateResults` function will call the `calculateAutismRisk` function from the `api.js` file to send the answers to the backend API and retrieve the results, which will then be displayed to the user.
+
+## Contributing
+
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
